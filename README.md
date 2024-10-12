@@ -1,4 +1,4 @@
-# STM32F407xx_StartupCode_LinkerScriptFile
+# STM32F407xx_StartupCode_LinkerScript
 
 
 ```bash
